@@ -1,0 +1,7 @@
+*.csv
+*.xls
+*.xlsx
+*.tsv
+*node_modules*
+*env*
+*__pycache__*

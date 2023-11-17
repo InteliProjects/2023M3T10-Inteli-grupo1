@@ -1,0 +1,1 @@
+Pasta onde deve ser colocado o arquivo "dados_cvm.csv", correspondente aos dados enviados pela CVM para desenvolvimento do projeto.
